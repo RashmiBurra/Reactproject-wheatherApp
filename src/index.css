@@ -5,13 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
-    /* background-image: url('https://i.pinimg.com/originals/73/e6/5a/73e65a3c42e90b0c00a9f408283dc1bb.jpg');  */
     background-image: url('../src/assests/clouds.jpg');
     background-size:cover;
     background-repeat: no-repeat;
-    /* background-position: center; */
-    /* opacity: 0.9;  */
+    
     margin: 0;
     padding: 0;
     

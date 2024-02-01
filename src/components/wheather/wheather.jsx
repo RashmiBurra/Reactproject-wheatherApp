@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import "./wheather.css"
+
 import Icon from './icon.jpeg';
 const Wheather=()=> {
     const [city,setCity]=useState("");
